@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Posts on ios</title>
+        <title>Posts on iOS Developer</title>
         <link>https://zekunli.github.io/posts/</link>
-        <description>Recent content in Posts on ios</description>
+        <description>Recent content in Posts on iOS Developer</description>
         <generator>Hugo -- gohugo.io</generator>
         <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
         <atom:link href="https://zekunli.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
